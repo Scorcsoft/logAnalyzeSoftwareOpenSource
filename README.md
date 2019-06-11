@@ -1,0 +1,3 @@
+# logAnalyzeSoftwareOpenSource
+
+在hw中Scorcsoft为PICC开发的分析软件，部分代码和敏感信息已删除。
